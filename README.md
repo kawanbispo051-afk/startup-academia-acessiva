@@ -10,7 +10,7 @@ Arquivo completo:
 
 ---
 
-# ✔ Definition of Done (DoD)
+# Definition of Done (DoD)
 
 Um item está PRONTO quando:
 
