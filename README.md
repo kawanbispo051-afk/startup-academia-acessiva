@@ -39,7 +39,7 @@ Um item está PRONTO quando:
 
 ---
 
-# 📂 Estrutura de Pastas
+# Estrutura de Pastas
 
 ```
 startup-academia-acessiva/
@@ -63,7 +63,7 @@ startup-academia-acessiva/
 
 ---
 
-# 👤 Desenvolvido por  
+# Desenvolvido por  
 Kawan, Felipe e Nicolás – Engenharia de Software III 
 
 
